@@ -14,3 +14,5 @@ Subida de la segunda parte del crud en esta subida he realizado cambios en la es
 <img src="array.PNG"/>
 <img src="map.PNG"/>
 <img src="404.PNG"/>
+<p> He usado el HashMap para hacer una selecion del código equipo a modo de KEY y como valor he metido un ArrayList con todos los jugadores con el Código equipo que tiene la Key.</p>
+<p>Para hacer el ArrayList lo que he hecho ha sido coger todos los jugadores que tengo almacenado en mi Base de datos y los he almacenado ahí. He usado otro ArrayList para los equipos. De esta forma si se introducen nuevos valores tanto en Equipos como en jugadores están actualizados.</p>
